@@ -1,0 +1,29 @@
+{
+  "name": "azureiotdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahilRS200/azureiotdev.git"
+  },
+  "author": "Sahil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SahilRS200/azureiotdev/issues"
+  },
+  "homepage": "https://github.com/SahilRS200/azureiotdev#readme",
+  "dependencies": {
+    "aws-sdk": "^2.437.0",
+    "axios": "^0.18.0",
+    "azure-iot-device-amqp": "^1.9.5",
+    "azure-iothub": "^1.9.5",
+    "onoff": "^4.1.1",
+    "phone": "^2.3.10",
+    "sha256": "^0.2.0"
+  }
+}

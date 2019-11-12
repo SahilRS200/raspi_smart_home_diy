@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+#bat files
+*.bat
+~$solution.pptx
+SDCardFormatterv5_WinEN/
+SDCardFormatterv5_WinEN.zip
+solution.pptx
+*.out*

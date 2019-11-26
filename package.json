@@ -19,7 +19,7 @@
   "homepage": "https://github.com/SahilRS200/azureiotdev#readme",
   "dependencies": {
     "aws-sdk": "^2.437.0",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "azure-iot-device-amqp": "^1.9.5",
     "azure-iothub": "^1.9.5",
     "onoff": "^4.1.1",
